@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🎯 Full-Stack Developer | React.js • Node.js • TypeScript • MongoDB • Express
+  🎯 Full-Stack Engineer | React.js • Node.js • TypeScript • MongoDB • Express
 </h3>
 
 <p align="center">
