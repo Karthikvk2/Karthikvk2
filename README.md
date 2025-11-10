@@ -8,14 +8,14 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%2B+TypeScript+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Things!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;MERN+%2B+TypeScript+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Things!" alt="Typing animation" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** who loves building interactive, scalable, and meaningful applications.  
+I'm a passionate **Full-Stack Engineer** who loves building interactive, scalable, and meaningful applications.  
 I enjoy turning ideas into code, crafting clean architectures, and continuously learning new technologies to improve my craft.
 
 - 🌱 Currently mastering **TypeScript**, **Next.js**, and **backend architecture**
