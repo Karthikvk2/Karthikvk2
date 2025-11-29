@@ -48,12 +48,12 @@ I'm a passionate **Full-Stack Engineer** specializing in the MERN stack and Type
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Karthikvk2&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikvk2&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Karthikvk2&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikvk2&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikvk2&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikvk2&layout=compact&theme=dark" />
 </p>
 
 ---
